@@ -1,0 +1,57 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:azure;
+    text-align: center;
+}
+
+.titulo {
+    width: 700px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: darkblue;
+    color: white;
+    border-radius: 10px;
+}
+
+.isc {
+    background-color: lightskyblue;
+    color: darkblue;
+    width: 130px;
+    margin: 5px auto;
+    padding: 1px;
+    border-radius: 10px;
+}
+
+.dev {
+    background-color:aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+    border: solid lightblue;
+    display: inline-block;
+    height: 200px;
+    width: 290px;
+    margin: 10px auto;
+    vertical-align: top;
+}
+
+.dev span {
+    color: darkgreen;
+    background-color: lightgreen;
+    padding: 3px;
+}
+
+.cursos{
+    display: block;
+    margin: 0 auto;
+}
+
+button{
+    background-color: goldenrod;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+}
+
+.senai{
+    color: gray
+}
